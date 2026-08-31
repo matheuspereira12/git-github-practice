@@ -18,6 +18,10 @@ Praticar Git e GitHub por meio do desenvolvimento de um site simples, utilizando
 - Mensagens de commit
 - Fluxo de trabalho com Git e GitHub
 
+## Registro de conflito
+
+O arquivo `conflito.txt` contém a saída do Git durante a simulação do conflito em `src/index.html`.
+
 ## Status
 
-Em desenvolvimento e estudo.
+Concluído.
